@@ -1,3 +1,7 @@
+""" Hi, I know you didn't ask to Calculate the age, but 
+I just did it for practice, and to understand how the datetime module works
+"""
+
 import datetime
 def calculate_age(year, month, day):
     today_day = datetime.date.today()
